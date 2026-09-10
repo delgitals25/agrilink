@@ -1,0 +1,6 @@
+{
+  "name": "AGRILINK",
+  "description": "ERP et marketplace agricole pour producteurs et coopératives d'Afrique avec suivi des stocks, IA agronomique Gemini, traçabilité et mode hors-ligne.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
